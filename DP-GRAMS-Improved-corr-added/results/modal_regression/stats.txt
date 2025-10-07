@@ -1,0 +1,4 @@
+Baseline n=100, eps=1000000.0
+PMS runtime: 0.0060 sec
+DP-PMS runtime: 0.1042 sec
+
