@@ -1,4 +1,0 @@
-MS Clustering: ARI=0.1631, NMI=0.3703, Silhouette=0.0541, MSE=26.498442, Runtime=2.8967s
-DP-GRAMS-C: ARI=0.1583, NMI=0.3084, Silhouette=0.0453, MSE=13.117941, Runtime=3.6387s
-KMeans: ARI=0.6694, NMI=0.7466, Silhouette=0.1825, MSE=3.916974, Runtime=0.0719s
-DP-KMeans: ARI=0.0000, NMI=0.0055, Silhouette=0.1095, MSE=2247.698072, Runtime=0.3501s

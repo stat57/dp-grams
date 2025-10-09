@@ -1,3 +1,0 @@
-Baseline (n=500)
-PMS runtime: 0.0248 s
-DP-PMS runtime: 0.0275 s
